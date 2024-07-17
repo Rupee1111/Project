@@ -1,3 +1,3 @@
 # Project
-here i uploaded my project 
-whic is created by me using css html javascript
+This is a weather forecasting project
+whic fetch data from api key
